@@ -1,3 +1,5 @@
 # Qt5_Advanced_2.7_Networking_SynchronousTCP
 
-#SourceCode to be added soon
+#Under Networking, synchronous TCP discussed and
+
+#SourceCode added
